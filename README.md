@@ -1,3 +1,6 @@
+
+![memezz](https://github.com/user-attachments/assets/a66b3813-98b2-471f-a535-d549e89d244c)
+
 # Memezz
 
 A meme viewing and sharing application ,uses volley library for api calling and glide library to cache and load images and gifs . There is a share button to share good memes with firends and a next button to change memes.
@@ -17,13 +20,7 @@ A meme viewing and sharing application ,uses volley library for api calling and 
 
 <table>
   <tr>
-    <td>First Meme</td>
-     <td>Next Meme</td>
-     <td>Share Button</td>
-  </tr>
-  <tr>
-    <td><img src=https://github.com/sumitbhuia/Memezz/blob/master/Screenshots/MEME1.jpg width="240"></td>
-    <td><img src=https://github.com/sumitbhuia/Memezz/blob/master/Screenshots/MEME2.jpg width="240"></td>
-    <td><img src=https://github.com/sumitbhuia/Memezz/blob/master/Screenshots/MEME3.jpg width="240"></td>
+    <td><img src="https://github.com/user-attachments/assets/671e90b4-4303-4d79-8f4a-3efecffb36ca" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/966442a7-a54d-4356-9e66-0df77f292400" width="270"></td>
   </tr>
  </table>
