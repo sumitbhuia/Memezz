@@ -71,8 +71,8 @@ class MainActivity : AppCompatActivity() {
     fun shareButton(View: View) {
         val intent = Intent(Intent.ACTION_SEND)
         intent.type = "text/plain"
-        intent.putExtra(Intent.EXTRA_TEXT,"Hey! Checkout this cool meme i got from reddit...$currentImageUrl ")
-        val chooser = Intent.createChooser(intent,"Share this meme using..")
+        intent.putExtra(Intent.EXTRA_TEXT,"$currentImageUrl")
+        val chooser = Intent.createChooser(intent,"Share")
         startActivity(chooser)
     }
     fun nextButton(view: View) {
